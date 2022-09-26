@@ -28,7 +28,7 @@ const AxiosEg = () => {
           {students.map((ele, i) => {
             return (
               <div key={i}>
-                <div>hello</div>
+                
                 <div>Name: {ele.name}</div>
                 <div>Std: {ele.std}</div>
                 <div>id: {ele.id}</div>
