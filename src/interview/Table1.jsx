@@ -7,7 +7,8 @@ const Table1=()=>{
       )
     return(
         <div>
-            <div > <center>table 2</center></div>
+            <div > <center>table 2 hello
+                </center></div>
             <ul>{a}</ul>
         </div>
     )
