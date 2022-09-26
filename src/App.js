@@ -1,9 +1,9 @@
 import React from "react"
-import Table1 from "./interview/Table1"
+import AxiosEg from "./axios/AxiosEg";
 const App=()=>{
   return(
     <div>
-      <Table1/>
+      <AxiosEg/>
     </div>
   )
 }
