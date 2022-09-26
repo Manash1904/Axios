@@ -1,0 +1,17 @@
+.productsList, .sideBar{
+ 
+  height: 500px;
+  border: 2px solid green;
+  margin: 5px;
+}
+
+.productsList {
+    width: 65%;
+    padding: 10px;
+    overflow: scroll;
+}
+
+.sideBar {
+    width: 20%;
+    padding: 10px;
+}

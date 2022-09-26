@@ -1,0 +1,12 @@
+.main{
+    margin:150px;
+}
+.para{
+    margin:50px;
+    border:1px solid skyblue;
+}
+.btn{
+    margin-left:120px;
+    color:white;
+    background-color: blueviolet;
+}

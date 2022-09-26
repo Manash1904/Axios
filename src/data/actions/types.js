@@ -1,0 +1,5 @@
+export const types = {
+    INCREMENT_BY_7: "INCREMENT_BY_7",
+    INCREMENT_BY_4: "INCREMENT_BY_4",
+    INCREMENT_BY_5: "INCREMENT_BY_5"
+}

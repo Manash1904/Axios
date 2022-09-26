@@ -1,0 +1,19 @@
+{
+    "category2": [
+      {
+        "name": "Cat2 Product1",
+        "price": "67",
+        "category": "category2"
+      },
+      {
+        "name": "Cat2 Product2",
+        "price": "78",
+        "category": "category2"
+      },
+      {
+        "name": "Cat2 Product3",
+        "price": "200",
+        "category": "category2"
+      }
+    ]
+  }
